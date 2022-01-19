@@ -1,0 +1,17 @@
+.card {
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.2) ;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+img {
+    width: 50%;
+    border-radius: 5px;
+}
+
+.card--overview {
+    font-size: 0.8rem;
+}

@@ -1,0 +1,40 @@
+.main-area {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+input,
+button {
+    text-align: center;
+    padding: 1.5em;
+    margin-bottom: 2em;
+    border-radius: 30px;
+    font-family: inherit;
+    border: 2px solid black;
+}
+
+button {
+    background-color: #00aaff;
+    color: white;
+}
+
+button:hover {
+    background-color: #1ab2ff;
+}
+
+.movie-area {
+    max-width: 1500px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
