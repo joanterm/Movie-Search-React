@@ -6,4 +6,4 @@
 * CSS
 * The MovieDB API https://www.themoviedb.org/settings/api?language=en-US
 
-![alt text](./src/screenshot.png)
+![project-screenshot](./src/screenshot.png)
