@@ -5,3 +5,5 @@
 * React
 * CSS
 * The MovieDB API https://www.themoviedb.org/settings/api?language=en-US
+
+![movie-search-screenshot](../screenshot.png)
